@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+  "Author": "DhogGPT",
+  "Name": "LAN Party",
+  "Punchline": "Cross-client daily roulette coordination scaffold.",
+  "Description": "Cross-client daily roulette coordination scaffold.",
+  "InternalName": "LanParty",
+  "AssemblyVersion": "0.0.0.1",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "Tags": [
+    "ffxiv",
+    "lanparty",
+    "dhog"
+  ],
+  "CategoryTags": [
+    "utility"
+  ]
+}
